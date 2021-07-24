@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\decals",
+    "\\components",
+    "\\components\\drawerMenus",
+    "\\constants",
+    "\\functions",
+    "\\functions\\emptyCharacter",
+    "\\screens",
+    "\\screens\\charSheets"
+  ],
+  "SelectedNode": "\\app.json",
+  "PreviewInSolutionExplorer": false
+}

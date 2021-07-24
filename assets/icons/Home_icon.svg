@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<defs>
+		<image width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAAAXNSR0IB2cksfwAAADNQTFRFAAAA////////////////////////////////////////////////////////////////t5XiggAAABF0Uk5TABBAr/+fj4Bw71BgMN8gz7+nbtKSAAACiElEQVR4nO3aXXLCMAxGUQIiQPnd/2rbJu1Mp4U6iWNLlu5Zgb/7Km82AAAAAAAAQE3dVvsFurqdhC7wsV8iF+j2IqELjPvjFvjeH7VALxK6wEEkdIGjSOgCv/dHK/B3f6wCz/ZHKvB8f5wCx9OLAPKm/bQqzi/3i5y1H1fBf/sjFPh/v/8C28R+7wUuyf2+C0zZ77nAtP1+C0zd77XA9P0+C1yu0/d7LHCbtd9fgbn7vRXo7nP3ixy1H72iJfs9FegeS/b7KTAcwAIXWL7fR4Gc/R4K5O1vv0DufpGD9oQs3T690HOBNfY3XWCV/Q0XWGl/swUO6WWuC6y4v8kCrw6AC/Xae+ZaeX9zBVbf31iBAvubKlBkf0MFXn8AiFEgdQDOsNfeNkXB/SIP7XVp6QO47wKF95svMOcA6LFAhf2mC1TZb7hApf1mC8w7gPsrUHG/yQLzD+C+ClTeb67AsgO4nwIK+00VyD+AtV1Aab+ZAmr7jRRQ3G+igOp+AwWU96sXWOcAnuWuGkB/v24BC/s1C/Tpx1WhVWDVA3gWnQJ29usUKHQAXKh+AVv7Pwp0sffXLmBvf90CxQ7gWeoVsLm/XoGiB/AsdQrY3V+nQPEDeJZr8QLVDoALlf5HZH2/SPT9ZQN09veXDXDTXjcBAQhAAAIQgAAEIAABCEAAAhCAAAQgQLQAZT9NEUB7XhoBCECA2AHKfhYigPa8NAIQgAAECB3gSgACEIAABAgc4FQ0wGb76W10Hh0Hhy/9YD/aDR5f7oPr6DRoL0Ah3eA2uoy2P2M/rd0/q73T3gIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA878hs2ySSbiOPAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #000000;stroke-width: 6 } 
+		.shp1 { fill: #000000;stroke: #000000;stroke-width: 6 } 
+		.shp2 { fill: #000000 } 
+	</style>
+	<g id="Folder 3">
+		<path id="Layer 6" class="shp0" d="M44 105L213 105L213 239.04L44 239.04L44 105Z" />
+		<path id="Layer 7" class="shp1" d="M101 158L155 158L155 238L101 238L101 158Z" />
+		<use id="Layer 8" href="#img1" x="0" y="0" />
+		<path id="Layer 2 copy 9" class="shp2" d="M20 122.63L127.83 14.79L132.08 19.03L24.24 126.87L20 122.63ZM128.89 14.79L236.73 122.63L232.49 126.87L124.65 19.03L128.89 14.79Z" />
+	</g>
+</svg>

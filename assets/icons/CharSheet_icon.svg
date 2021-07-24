@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #000000;stroke-width: 6 } 
+		.shp1 { fill: #000000 } 
+	</style>
+	<g id="Folder 2">
+		<path id="Layer 4" class="shp0" d="M55 15L202 15L202 242L55 242L55 15Z" />
+		<path id="Layer 2 copy 3" class="shp1" d="M67 85L189 85L189 91L67 91L67 85Z" />
+		<path id="Layer 2 copy 4" class="shp1" d="M67 115L189 115L189 121L67 121L67 115Z" />
+		<path id="Layer 2 copy 5" class="shp1" d="M67 145L189 145L189 151L67 151L67 145Z" />
+		<path id="Layer 2 copy 6" class="shp1" d="M67 175L189 175L189 181L67 181L67 175Z" />
+		<path id="Layer 2 copy 7" class="shp1" d="M67 205L189 205L189 211L67 211L67 205Z" />
+		<path id="Layer 2 copy 8" class="shp1" d="M131 55L189 55L189 61L131 61L131 55Z" />
+		<path id="Layer 5" class="shp0" d="M69 28L120 28L120 74L69 74L69 28Z" />
+	</g>
+</svg>
